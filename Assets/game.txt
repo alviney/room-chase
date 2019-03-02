@@ -1,0 +1,43 @@
+STORY
+
+"Training" missions are as a kid in the city learning to avoid the robot gaurds in restricted and curfew areas.
+
+Proper missions, raiders have taken over the station. 
+Start introducing brutal deaths, e.g. shutting doors on people, ejecting into space, making them shoot each other etc.
+
+****** GAMEPLAY ********
+
+* Why this style of movement?
+    - This type of movement allows user to perform actions whilst they are moving. (Action here style).
+    - Hack things whilst running creates opportunities for timeing things in the environment with the players movement.
+        - Open a door just as the player reaches it and close it again.
+        - Activate a trap whilst someone is chasing you.
+
+* Can "hack" things whilst running around. (Some things require the agent to be close to the thing before it can be hacked)
+    - Time doors opening
+    - Turn lights on and off
+    - Open air locks
+    - Re-route patrol robots. (this could be an entire gameplay mechanic)
+    - Open jail cells. 
+    - Open armoury (may require mini game to unlock)
+
+* How??
+    Open gadget display
+    - Shows whatever is selected e.g. doors, robots
+    - These things can be clicked to hack now. If they were clickable all the time it would be hard to 
+        move around.
+
+* Curse of monkey island gameplay
+    - Pick things up in the environment.
+    - Use themn to solve puzzles. e.g. Use a breathings mask and fill a room up with water to drown guards.
+    - Combine them to make new things.
+
+
+******* ENVIRONMENT **********
+
+Space station. 
+
+Have tubes or some kind of transport to other areas. 
+Air locks.
+Gardens.
+Cool public transport.
